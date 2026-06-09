@@ -1,0 +1,21 @@
+node_modules/
+dist/
+build/
+.env
+.env.local
+.env.*.local
+*.log
+npm-debug.log*
+.DS_Store
+.vscode/
+.idea/
+playwright-report/
+test-results/
+.cache/
+coverage/
+
+# DuckDuckGo Tracker Radar dataset (cloned separately)
+backend/tracker-radar/domains/
+backend/tracker-radar/entities/
+backend/tracker-radar/build-data/
+!backend/tracker-radar/.gitkeep

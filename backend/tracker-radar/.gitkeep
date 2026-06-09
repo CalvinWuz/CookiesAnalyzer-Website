@@ -1,0 +1,3 @@
+# Placeholder. Clone DuckDuckGo Tracker Radar dataset here:
+# git clone https://github.com/duckduckgo/tracker-radar.git .
+# The backend will look for tracker-radar/domains/{COUNTRY}/{domain}.json
